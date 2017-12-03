@@ -21,7 +21,7 @@ header {
 
 
 nav li {
-  font-family: sans-serif;
+  font-family: lato;
   display:inline-block;
 }
 
@@ -44,10 +44,36 @@ nav ul {
 
 div {
     color: white;
-    font-family: roboto;
+    font-family: lato;
     position: absolute;
     top: 30%;
     text-align: center;
-    
+    width: 100%;
         
 }
+
+div h1 {
+    font-size: 300%;
+}
+
+div h2 {
+    font-size: 200%;
+}
+
+.tresc {
+    font-family: lato;
+    padding-left: 510px;
+
+}
+
+#naglowek1 {
+    font-family: lato;
+    text-align: center;
+}
+
+figure img {
+    max-width: 250px;
+    float: left;
+    padding: 30px;
+}
+
