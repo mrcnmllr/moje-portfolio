@@ -1,0 +1,53 @@
+html
+{
+margin: 0;
+background-color: #f9fcfe
+font-family: 'Roboto', sans-serif;
+}
+
+
+head {
+    font-family: 'lato';
+    text-align: center;
+}
+
+
+header {
+    background-image: url('C:/Users/Marcin/Portfolio/moje-portfolio/img/header-background.jpg');
+    background-position: center top;
+    background-size:cover;
+    height:500px;
+}
+
+
+nav li {
+  font-family: sans-serif;
+  display:inline-block;
+}
+
+
+a {
+    padding: 8px;
+}
+
+li a {
+    color: limegreen;
+    text-decoration: none;
+}
+
+nav ul {
+    list-style-type: none;
+    padding:1%;
+    background-color: white;
+    text-align:right;
+}
+
+div {
+    color: white;
+    font-family: roboto;
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    
+        
+}
